@@ -1,0 +1,3 @@
+Maria,Le,maria@email.com,31314341,kode
+Christian,Christiansen,christian@email.com,christiannr,christiankode
+Jens,Jensen,tim@,timnr,timkode

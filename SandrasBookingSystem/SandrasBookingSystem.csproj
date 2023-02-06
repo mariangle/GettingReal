@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Views\photo-1581084324492-c8076f130f86.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Views\photo-1581084324492-c8076f130f86.jpg" />
+  </ItemGroup>
+
+</Project>

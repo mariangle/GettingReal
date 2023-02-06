@@ -1,0 +1,84 @@
+C:\Users\Sri-V\Documents\GitHub\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\SandrasBookingSystem.csproj.AssemblyReference.cache
+C:\Users\Sri-V\Documents\GitHub\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+C:\Users\Sri-V\Documents\GitHub\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Sri-V\Documents\GitHub\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\SandrasBookingSystem_MarkupCompile.cache
+C:\Users\Sri-V\Documents\GitHub\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\SandrasBookingSystem_MarkupCompile.lref
+C:\Users\Sri-V\Documents\GitHub\Sandras\SandrasBookingSystem\bin\Debug\net6.0-windows\SandrasBookingSystem.exe
+C:\Users\Sri-V\Documents\GitHub\Sandras\SandrasBookingSystem\bin\Debug\net6.0-windows\SandrasBookingSystem.deps.json
+C:\Users\Sri-V\Documents\GitHub\Sandras\SandrasBookingSystem\bin\Debug\net6.0-windows\SandrasBookingSystem.runtimeconfig.json
+C:\Users\Sri-V\Documents\GitHub\Sandras\SandrasBookingSystem\bin\Debug\net6.0-windows\SandrasBookingSystem.dll
+C:\Users\Sri-V\Documents\GitHub\Sandras\SandrasBookingSystem\bin\Debug\net6.0-windows\SandrasBookingSystem.pdb
+C:\Users\Sri-V\Documents\GitHub\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\Views\MainWindow.baml
+C:\Users\Sri-V\Documents\GitHub\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\SandrasBookingSystem.g.resources
+C:\Users\Sri-V\Documents\GitHub\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\SandrasBookingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sri-V\Documents\GitHub\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\SandrasBookingSystem.AssemblyInfoInputs.cache
+C:\Users\Sri-V\Documents\GitHub\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\SandrasBookingSystem.AssemblyInfo.cs
+C:\Users\Sri-V\Documents\GitHub\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\SandrasBookingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Sri-V\Documents\GitHub\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\SandrasBookingSystem.dll
+C:\Users\Sri-V\Documents\GitHub\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\refint\SandrasBookingSystem.dll
+C:\Users\Sri-V\Documents\GitHub\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\SandrasBookingSystem.pdb
+C:\Users\Sri-V\Documents\GitHub\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\SandrasBookingSystem.genruntimeconfig.cache
+C:\Users\Sri-V\Documents\GitHub\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\ref\SandrasBookingSystem.dll
+C:\Users\Bruger\Desktop\GitSandras\Sandras\SandrasBookingSystem\bin\Debug\net6.0-windows\SandrasBookingSystem.exe
+C:\Users\Bruger\Desktop\GitSandras\Sandras\SandrasBookingSystem\bin\Debug\net6.0-windows\SandrasBookingSystem.deps.json
+C:\Users\Bruger\Desktop\GitSandras\Sandras\SandrasBookingSystem\bin\Debug\net6.0-windows\SandrasBookingSystem.runtimeconfig.json
+C:\Users\Bruger\Desktop\GitSandras\Sandras\SandrasBookingSystem\bin\Debug\net6.0-windows\SandrasBookingSystem.dll
+C:\Users\Bruger\Desktop\GitSandras\Sandras\SandrasBookingSystem\bin\Debug\net6.0-windows\SandrasBookingSystem.pdb
+C:\Users\Bruger\Desktop\GitSandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\SandrasBookingSystem.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\GitSandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+C:\Users\Bruger\Desktop\GitSandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Bruger\Desktop\GitSandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\SandrasBookingSystem_MarkupCompile.cache
+C:\Users\Bruger\Desktop\GitSandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\SandrasBookingSystem_MarkupCompile.lref
+C:\Users\Bruger\Desktop\GitSandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\Views\MainWindow.baml
+C:\Users\Bruger\Desktop\GitSandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\SandrasBookingSystem.g.resources
+C:\Users\Bruger\Desktop\GitSandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\SandrasBookingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Desktop\GitSandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\SandrasBookingSystem.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\GitSandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\SandrasBookingSystem.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\GitSandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\SandrasBookingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\GitSandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\SandrasBookingSystem.dll
+C:\Users\Bruger\Desktop\GitSandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\refint\SandrasBookingSystem.dll
+C:\Users\Bruger\Desktop\GitSandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\SandrasBookingSystem.pdb
+C:\Users\Bruger\Desktop\GitSandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\SandrasBookingSystem.genruntimeconfig.cache
+C:\Users\Bruger\Desktop\GitSandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\ref\SandrasBookingSystem.dll
+C:\Users\Bruger\Desktop\GettingReal Sandras\GitSandras\Sandras\SandrasBookingSystem\bin\Debug\net6.0-windows\SandrasBookingSystem.exe
+C:\Users\Bruger\Desktop\GettingReal Sandras\GitSandras\Sandras\SandrasBookingSystem\bin\Debug\net6.0-windows\SandrasBookingSystem.deps.json
+C:\Users\Bruger\Desktop\GettingReal Sandras\GitSandras\Sandras\SandrasBookingSystem\bin\Debug\net6.0-windows\SandrasBookingSystem.runtimeconfig.json
+C:\Users\Bruger\Desktop\GettingReal Sandras\GitSandras\Sandras\SandrasBookingSystem\bin\Debug\net6.0-windows\SandrasBookingSystem.dll
+C:\Users\Bruger\Desktop\GettingReal Sandras\GitSandras\Sandras\SandrasBookingSystem\bin\Debug\net6.0-windows\SandrasBookingSystem.pdb
+C:\Users\Bruger\Desktop\GettingReal Sandras\GitSandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\SandrasBookingSystem.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\GettingReal Sandras\GitSandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+C:\Users\Bruger\Desktop\GettingReal Sandras\GitSandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Bruger\Desktop\GettingReal Sandras\GitSandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\SandrasBookingSystem_MarkupCompile.cache
+C:\Users\Bruger\Desktop\GettingReal Sandras\GitSandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\SandrasBookingSystem_MarkupCompile.lref
+C:\Users\Bruger\Desktop\GettingReal Sandras\GitSandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\Views\MainWindow.baml
+C:\Users\Bruger\Desktop\GettingReal Sandras\GitSandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\SandrasBookingSystem.g.resources
+C:\Users\Bruger\Desktop\GettingReal Sandras\GitSandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\SandrasBookingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Desktop\GettingReal Sandras\GitSandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\SandrasBookingSystem.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\GettingReal Sandras\GitSandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\SandrasBookingSystem.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\GettingReal Sandras\GitSandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\SandrasBookingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\GettingReal Sandras\GitSandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\SandrasBookingSystem.dll
+C:\Users\Bruger\Desktop\GettingReal Sandras\GitSandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\refint\SandrasBookingSystem.dll
+C:\Users\Bruger\Desktop\GettingReal Sandras\GitSandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\SandrasBookingSystem.pdb
+C:\Users\Bruger\Desktop\GettingReal Sandras\GitSandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\SandrasBookingSystem.genruntimeconfig.cache
+C:\Users\Bruger\Desktop\GettingReal Sandras\GitSandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\ref\SandrasBookingSystem.dll
+C:\Users\Bruger\Desktop\DMOE\Getting Real - Sandras\Sandras\SandrasBookingSystem\bin\Debug\net6.0-windows\SandrasBookingSystem.exe
+C:\Users\Bruger\Desktop\DMOE\Getting Real - Sandras\Sandras\SandrasBookingSystem\bin\Debug\net6.0-windows\SandrasBookingSystem.deps.json
+C:\Users\Bruger\Desktop\DMOE\Getting Real - Sandras\Sandras\SandrasBookingSystem\bin\Debug\net6.0-windows\SandrasBookingSystem.runtimeconfig.json
+C:\Users\Bruger\Desktop\DMOE\Getting Real - Sandras\Sandras\SandrasBookingSystem\bin\Debug\net6.0-windows\SandrasBookingSystem.dll
+C:\Users\Bruger\Desktop\DMOE\Getting Real - Sandras\Sandras\SandrasBookingSystem\bin\Debug\net6.0-windows\SandrasBookingSystem.pdb
+C:\Users\Bruger\Desktop\DMOE\Getting Real - Sandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\SandrasBookingSystem.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\DMOE\Getting Real - Sandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+C:\Users\Bruger\Desktop\DMOE\Getting Real - Sandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Bruger\Desktop\DMOE\Getting Real - Sandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\SandrasBookingSystem_MarkupCompile.cache
+C:\Users\Bruger\Desktop\DMOE\Getting Real - Sandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\SandrasBookingSystem_MarkupCompile.lref
+C:\Users\Bruger\Desktop\DMOE\Getting Real - Sandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\Views\MainWindow.baml
+C:\Users\Bruger\Desktop\DMOE\Getting Real - Sandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\SandrasBookingSystem.g.resources
+C:\Users\Bruger\Desktop\DMOE\Getting Real - Sandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\SandrasBookingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Desktop\DMOE\Getting Real - Sandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\SandrasBookingSystem.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\DMOE\Getting Real - Sandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\SandrasBookingSystem.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\DMOE\Getting Real - Sandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\SandrasBookingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\DMOE\Getting Real - Sandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\SandrasBookingSystem.dll
+C:\Users\Bruger\Desktop\DMOE\Getting Real - Sandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\refint\SandrasBookingSystem.dll
+C:\Users\Bruger\Desktop\DMOE\Getting Real - Sandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\SandrasBookingSystem.pdb
+C:\Users\Bruger\Desktop\DMOE\Getting Real - Sandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\SandrasBookingSystem.genruntimeconfig.cache
+C:\Users\Bruger\Desktop\DMOE\Getting Real - Sandras\Sandras\SandrasBookingSystem\obj\Debug\net6.0-windows\ref\SandrasBookingSystem.dll
