@@ -1,8 +1,8 @@
 # GettingReal Project
-This is the second project I've worked and it was made with WPF. SandrasGroup wanted a booking platform to make it easy for its clients to book a freelance photographer. It would've made more sense to make it as website, however we were limited to only work on something we've worked with in school. With the timeframe, the goal wasn't having a finished product but a prototype.
+This project was developed using WPF. The client, SandrasGroup, required a booking platform that would enable its customers to easily book a freelance photographer. Although it would have made more sense to develop a website, we were limited to working with technologies we had learned in school. Due to the limited timeframe, the focus was on creating a prototype rather than a finished product.
 
 # The Code
-The software pattern MVVM has been used to structure seperate program logic and user interface controls. To save/load users and bookings I've used textfiles. 
+The software pattern MVVM has been used to structure seperate program logic and user interface controls. 
 
 # Product
 ![image](https://user-images.githubusercontent.com/124585244/216984636-3f8e1105-5108-4f0e-95ed-aecacde9ec93.png)
